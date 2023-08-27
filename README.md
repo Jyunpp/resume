@@ -5,7 +5,10 @@
 - **email** : <kcjohnnykim@gmail.com>
 ----
 ## **Work Experiences**
-- [Kakao Corp](https://www.kakaocorp.com) (2021.09 ~ current)
+- [Kakao Commerce Corp](https://www.kakaocommerce.com) in [Kakao Corp](https://www.kakaocorp.com) (2021.12 ~ current)
+   - order platform dev part
+
+- [Kakao Corp](https://www.kakaocorp.com) (2021.09 ~ 2021.11)
    - voucher platform dev part
 
 - [Kakao Commerce Corp](https://www.kakaocommerce.com) (2018.12 ~ 2021.08 (re-merge) )
